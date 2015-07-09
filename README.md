@@ -1,2 +1,2 @@
 # android
-dragonSmash Android Client App
+dragonSmash Android client app
